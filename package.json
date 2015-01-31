@@ -1,0 +1,36 @@
+{
+  "name": "webmaker-app-icons",
+  "version": "1.5.2",
+  "homepage": "https://github.com/k88hudson/ionicons",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/k88hudson/ionicons"
+  },
+  "author": {
+    "name": "Ben Sperry",
+    "email": "ben@drifty.com"
+  },
+  "contributors": [
+    "Adam Bradley <adam@drifty.com>",
+    "Max Lynch <max@drifty.com>"
+  ],
+  "description": "Fork of Ionicons for Webmaker.app",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/driftyco/ionicons/blob/master/LICENSE"
+    }
+  ],
+  "main": "css/ionicons.css",
+  "readmeFilename": "README.md",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "files": [
+    "css",
+    "fonts",
+    "LICENSE"
+  ],
+  "dependencies": {
+  }
+}
