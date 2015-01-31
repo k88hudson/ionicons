@@ -11,7 +11,7 @@ import json
 import copy
 
 SCRIPT_PATH = os.path.dirname(os.path.abspath(__file__))
-INPUT_SVG_DIR = os.path.join(SCRIPT_PATH, '..', '..', 'src')
+INPUT_SVG_DIR = os.path.join(SCRIPT_PATH, '..', '..', 'src_subset')
 OUTPUT_FONT_DIR = os.path.join(SCRIPT_PATH, '..', '..', 'fonts')
 MANIFEST_PATH = os.path.join(SCRIPT_PATH, '..', 'manifest.json')
 BUILD_DATA_PATH = os.path.join(SCRIPT_PATH, '..', 'build_data.json')
