@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2015-1-30: Created with FontForge (http://fontforge.org)
+2015-2-4: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20141127 at Fri Jan 30 22:34:19 2015
+Created by FontForge 20141127 at Wed Feb  4 18:43:02 2015
  By Kate Hudson
 Copyright (c) 2015, Kate Hudson
 </metadata>
@@ -22,7 +22,7 @@ Copyright (c) 2015, Kate Hudson
     bbox="-0.0842112 -32 512 416"
     underline-thickness="25.6"
     underline-position="-51.2"
-    unicode-range="U+F147-F3BA"
+    unicode-range="U+F123-F3BA"
   />
     <missing-glyph />
     <glyph glyph-name="ion-android-add" unicode="&#xf2c7;" horiz-adv-x="320" 
@@ -144,6 +144,14 @@ d="M342 192c0 69 -45 128 -107 147v45c85 -20 149 -99 149 -192c0 -35 -8 -68 -24 -9
 M288 192c0 -7 0 -15 -2 -22l-51 51v60c32 -16 53 -51 53 -89z" />
     <glyph glyph-name="ion-android-volume-up" unicode="&#xf3ba;" 
 d="M0 256h85l107 112v-352l-107 112h-85v128zM288 192c0 -38 -21 -73 -53 -88v177c32 -16 53 -51 53 -89zM235 384c85 -20 149 -99 149 -192s-64 -172 -149 -192v45c62 19 106 78 106 147s-44 128 -106 147v45z" />
+    <glyph glyph-name="ion-chevron-down" unicode="&#xf123;" horiz-adv-x="448" 
+d="M224 150v0v0l174 167c4 4 12 4 16 0l31 -30c4 -4 4 -12 0 -16l-213 -204c-2 -2 -5 -3 -8 -3s-6 1 -8 3l-213 204c-4 4 -4 12 0 16l31 30c4 4 12 4 16 0z" />
+    <glyph glyph-name="ion-chevron-left" unicode="&#xf124;" horiz-adv-x="256" 
+d="M86 192l167 -174c4 -4 4 -12 0 -16l-30 -31c-4 -4 -12 -4 -16 0l-204 213c-2 2 -3 5 -3 8s1 6 3 8l204 213c4 4 12 3 16 -1l30 -30c4 -4 4 -12 0 -16l-167 -174v0v0z" />
+    <glyph glyph-name="ion-chevron-right" unicode="&#xf125;" horiz-adv-x="256" 
+d="M170 192v0v0l-167 174c-4 4 -4 12 0 16l30 30c4 4 12 5 16 1l204 -213c2 -2 3 -5 3 -8s-1 -6 -3 -8l-204 -213c-4 -4 -12 -4 -16 0l-30 31c-4 4 -4 12 0 16z" />
+    <glyph glyph-name="ion-chevron-up" unicode="&#xf126;" horiz-adv-x="448" 
+d="M224 234l-174 -167c-4 -4 -12 -4 -16 0l-31 30c-4 4 -4 12 0 16l213 204c2 2 5 3 8 3s6 -1 8 -3l213 -204c4 -4 4 -12 0 -16l-31 -30c-4 -4 -12 -4 -16 0l-174 167v0v0z" />
     <glyph glyph-name="ion-image" unicode="&#xf147;" horiz-adv-x="448" 
 d="M336 224c-26 0 -48 22 -48 48s22 48 48 48s48 -22 48 -48s-22 -48 -48 -48zM420 384c16 0 28 -12 28 -28v-328c0 -16 -12 -28 -28 -28h-392c-16 0 -28 12 -28 28v328c0 16 12 28 28 28h392zM317 186l99 -106v260c0 7 -6 12 -13 12h-358c-7 0 -12 -5 -13 -12v-260l126 152
 c4 4 10 8 17 8s13 -2 17 -7l54 -59l4 -4c3 -2 7 -4 11 -4s8 2 12 5l18 16c4 3 8 5 13 5s10 -2 13 -6z" />

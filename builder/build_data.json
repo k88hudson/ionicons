@@ -1,5 +1,5 @@
 {
-  "build_hash": "cb175ea4a1fabdd5a1475104cc710e7e",
+  "build_hash": "611527e7304fbe0d33fd512a62f7362b",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -215,6 +215,22 @@
     {
       "code": "0xf3ba",
       "name": "android-volume-up"
+    },
+    {
+      "code": "0xf123",
+      "name": "chevron-down"
+    },
+    {
+      "code": "0xf124",
+      "name": "chevron-left"
+    },
+    {
+      "code": "0xf125",
+      "name": "chevron-right"
+    },
+    {
+      "code": "0xf126",
+      "name": "chevron-up"
     },
     {
       "code": "0xf147",
