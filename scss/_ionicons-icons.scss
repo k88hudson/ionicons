@@ -23,11 +23,13 @@
 .#{$ionicons-prefix}android-remove:before,
 .#{$ionicons-prefix}android-search:before,
 .#{$ionicons-prefix}android-share-alt:before,
+.#{$ionicons-prefix}checkmark-circled:before,
 .#{$ionicons-prefix}checkmark-round:before,
 .#{$ionicons-prefix}chevron-down:before,
 .#{$ionicons-prefix}chevron-left:before,
 .#{$ionicons-prefix}chevron-right:before,
 .#{$ionicons-prefix}chevron-up:before,
+.#{$ionicons-prefix}close-circled:before,
 .#{$ionicons-prefix}edit:before,
 .#{$ionicons-prefix}images:before,
 .#{$ionicons-prefix}ios-copy:before,
@@ -56,11 +58,13 @@
 .#{$ionicons-prefix}android-remove:before { content: $ionicon-var-android-remove; }
 .#{$ionicons-prefix}android-search:before { content: $ionicon-var-android-search; }
 .#{$ionicons-prefix}android-share-alt:before { content: $ionicon-var-android-share-alt; }
+.#{$ionicons-prefix}checkmark-circled:before { content: $ionicon-var-checkmark-circled; }
 .#{$ionicons-prefix}checkmark-round:before { content: $ionicon-var-checkmark-round; }
 .#{$ionicons-prefix}chevron-down:before { content: $ionicon-var-chevron-down; }
 .#{$ionicons-prefix}chevron-left:before { content: $ionicon-var-chevron-left; }
 .#{$ionicons-prefix}chevron-right:before { content: $ionicon-var-chevron-right; }
 .#{$ionicons-prefix}chevron-up:before { content: $ionicon-var-chevron-up; }
+.#{$ionicons-prefix}close-circled:before { content: $ionicon-var-close-circled; }
 .#{$ionicons-prefix}edit:before { content: $ionicon-var-edit; }
 .#{$ionicons-prefix}images:before { content: $ionicon-var-images; }
 .#{$ionicons-prefix}ios-copy:before { content: $ionicon-var-ios-copy; }

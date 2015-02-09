@@ -1,5 +1,5 @@
 {
-  "build_hash": "bec571794b14432a25ef46d39670a01c",
+  "build_hash": "aeefdf7e59b1209e8576ed88229b52ce",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -89,6 +89,10 @@
       "name": "android-share-alt"
     },
     {
+      "code": "0xf120",
+      "name": "checkmark-circled"
+    },
+    {
       "code": "0xf121",
       "name": "checkmark-round"
     },
@@ -107,6 +111,10 @@
     {
       "code": "0xf126",
       "name": "chevron-up"
+    },
+    {
+      "code": "0xf128",
+      "name": "close-circled"
     },
     {
       "code": "0xf2bf",
