@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20141127 at Mon Feb  9 13:32:03 2015
+Created by FontForge 20141127 at Mon Feb  9 14:12:48 2015
  By Kate Hudson
 Copyright (c) 2015, Kate Hudson
 </metadata>
@@ -56,6 +56,8 @@ d="M298 311l-119 -119l119 -119l-30 -30l-119 119l-119 -119l-30 30l119 119l-119 11
 d="M0 80l236 236l80 -80l-236 -236h-80v80zM378 298l-40 -40l-80 80l40 40c9 9 20 9 29 0l51 -51c9 -9 9 -20 0 -29z" />
     <glyph glyph-name="ion-android-delete" unicode="&#xf37f;" horiz-adv-x="320" 
 d="M32 43v245h256v-245c0 -23 -20 -43 -43 -43h-170c-23 0 -43 20 -43 43zM320 352v-32h-320v32h80l27 32h106l27 -32h80z" />
+    <glyph glyph-name="ion-android-done" unicode="&#xf383;" horiz-adv-x="384" 
+d="M122 108l230 230l32 -31l-262 -261l-122 122l32 31z" />
     <glyph glyph-name="ion-android-more-horizontal" unicode="&#xf396;" horiz-adv-x="320" 
 d="M40 232c22 0 40 -18 40 -40s-18 -40 -40 -40s-40 18 -40 40s18 40 40 40zM280 232c22 0 40 -18 40 -40s-18 -40 -40 -40s-40 18 -40 40s18 40 40 40zM160 232c22 0 40 -18 40 -40s-18 -40 -40 -40s-40 18 -40 40s18 40 40 40z" />
     <glyph glyph-name="ion-android-more-vertical" unicode="&#xf397;" horiz-adv-x="80" 
