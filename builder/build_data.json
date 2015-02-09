@@ -1,5 +1,5 @@
 {
-  "build_hash": "611527e7304fbe0d33fd512a62f7362b",
+  "build_hash": "bec571794b14432a25ef46d39670a01c",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -7,10 +7,6 @@
     {
       "code": "0xf2c7",
       "name": "android-add"
-    },
-    {
-      "code": "0xf35c",
-      "name": "android-apps"
     },
     {
       "code": "0xf2ca",
@@ -45,20 +41,8 @@
       "name": "android-arrow-up"
     },
     {
-      "code": "0xf367",
-      "name": "android-attach"
-    },
-    {
-      "code": "0xf2d2",
-      "name": "android-call"
-    },
-    {
       "code": "0xf2d3",
       "name": "android-camera"
-    },
-    {
-      "code": "0xf2d4",
-      "name": "android-chat"
     },
     {
       "code": "0xf373",
@@ -67,10 +51,6 @@
     {
       "code": "0xf372",
       "name": "android-checkbox-outline-blank"
-    },
-    {
-      "code": "0xf375",
-      "name": "android-checkmark-circle"
     },
     {
       "code": "0xf2d7",
@@ -85,72 +65,12 @@
       "name": "android-delete"
     },
     {
-      "code": "0xf383",
-      "name": "android-done"
-    },
-    {
-      "code": "0xf382",
-      "name": "android-done-all"
-    },
-    {
-      "code": "0xf388",
-      "name": "android-favorite"
-    },
-    {
-      "code": "0xf387",
-      "name": "android-favorite-outline"
-    },
-    {
-      "code": "0xf38e",
-      "name": "android-happy"
-    },
-    {
-      "code": "0xf393",
-      "name": "android-map"
-    },
-    {
-      "code": "0xf394",
-      "name": "android-menu"
-    },
-    {
-      "code": "0xf2ec",
-      "name": "android-microphone"
-    },
-    {
-      "code": "0xf395",
-      "name": "android-microphone-off"
-    },
-    {
       "code": "0xf396",
       "name": "android-more-horizontal"
     },
     {
       "code": "0xf397",
       "name": "android-more-vertical"
-    },
-    {
-      "code": "0xf39b",
-      "name": "android-notifications"
-    },
-    {
-      "code": "0xf399",
-      "name": "android-notifications-none"
-    },
-    {
-      "code": "0xf39a",
-      "name": "android-notifications-off"
-    },
-    {
-      "code": "0xf39e",
-      "name": "android-people"
-    },
-    {
-      "code": "0xf3a0",
-      "name": "android-person"
-    },
-    {
-      "code": "0xf39f",
-      "name": "android-person-add"
     },
     {
       "code": "0xf3a8",
@@ -161,60 +81,16 @@
       "name": "android-remove"
     },
     {
-      "code": "0xf3ab",
-      "name": "android-sad"
-    },
-    {
       "code": "0xf2f5",
       "name": "android-search"
-    },
-    {
-      "code": "0xf2f7",
-      "name": "android-settings"
-    },
-    {
-      "code": "0xf2f8",
-      "name": "android-share"
     },
     {
       "code": "0xf3ac",
       "name": "android-share-alt"
     },
     {
-      "code": "0xf2fc",
-      "name": "android-star"
-    },
-    {
-      "code": "0xf3ad",
-      "name": "android-star-half"
-    },
-    {
-      "code": "0xf3ae",
-      "name": "android-star-outline"
-    },
-    {
-      "code": "0xf3b1",
-      "name": "android-sync"
-    },
-    {
-      "code": "0xf3b2",
-      "name": "android-textsms"
-    },
-    {
-      "code": "0xf3b7",
-      "name": "android-volume-down"
-    },
-    {
-      "code": "0xf3b8",
-      "name": "android-volume-mute"
-    },
-    {
-      "code": "0xf3b9",
-      "name": "android-volume-off"
-    },
-    {
-      "code": "0xf3ba",
-      "name": "android-volume-up"
+      "code": "0xf121",
+      "name": "checkmark-round"
     },
     {
       "code": "0xf123",
@@ -233,12 +109,20 @@
       "name": "chevron-up"
     },
     {
-      "code": "0xf147",
-      "name": "image"
+      "code": "0xf2bf",
+      "name": "edit"
     },
     {
       "code": "0xf148",
       "name": "images"
+    },
+    {
+      "code": "0xf41c",
+      "name": "ios-copy"
+    },
+    {
+      "code": "0xf2b5",
+      "name": "stats-bars"
     }
   ]
 }
