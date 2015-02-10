@@ -5,12 +5,12 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20141127 at Mon Feb  9 14:12:48 2015
+Created by FontForge 20141127 at Mon Feb  9 16:58:54 2015
  By Kate Hudson
 Copyright (c) 2015, Kate Hudson
 </metadata>
 <defs>
-<font id="Ionicons" horiz-adv-x="448" >
+<font id="Ionicons" horiz-adv-x="384" >
   <font-face 
     font-family="Ionicons"
     font-weight="400"
@@ -43,21 +43,23 @@ d="M0 128l128 128l128 -128h-256z" />
 d="M0 171v42h260l-119 120l30 30l171 -171l-171 -171l-31 30l120 120h-260z" />
     <glyph glyph-name="ion-android-arrow-up" unicode="&#xf366;" horiz-adv-x="342" 
 d="M192 21h-42v260l-120 -119l-30 30l171 171l171 -171l-30 -31l-120 120v-260z" />
-    <glyph glyph-name="ion-android-camera" unicode="&#xf2d3;" 
+    <glyph glyph-name="ion-android-camera" unicode="&#xf2d3;" horiz-adv-x="448" 
 d="M161 168c0 35 28 63 63 63s63 -28 63 -63s-28 -63 -63 -63s-63 28 -63 63zM408 352c22 0 40 -18 40 -40v-272c0 -22 -18 -40 -40 -40h-368c-22 0 -40 18 -40 40v272c0 22 18 40 40 40h88l32 32h128l32 -32h88zM224 56c62 0 112 50 112 112s-50 112 -112 112
 s-112 -50 -112 -112s50 -112 112 -112z" />
-    <glyph glyph-name="ion-android-checkbox-outline-blank" unicode="&#xf372;" horiz-adv-x="384" 
+    <glyph glyph-name="ion-android-checkbox-outline-blank" unicode="&#xf372;" 
 d="M341 341h-298v-298h298v298zM341 384v0c23 0 43 -20 43 -43v-298c0 -23 -20 -43 -43 -43h-298c-23 0 -43 20 -43 43v298c0 23 20 43 43 43h298z" />
-    <glyph glyph-name="ion-android-checkbox-outline" unicode="&#xf373;" horiz-adv-x="384" 
+    <glyph glyph-name="ion-android-checkbox-outline" unicode="&#xf373;" 
 d="M105 233l66 -66l183 183l30 -30l-213 -213l-96 96zM341 43v170h43v-170c0 -23 -20 -43 -43 -43h-298c-23 0 -43 20 -43 43v298c0 23 20 43 43 43h213v-43h-213v-298h298z" />
     <glyph glyph-name="ion-android-close" unicode="&#xf2d7;" horiz-adv-x="298" 
 d="M298 311l-119 -119l119 -119l-30 -30l-119 119l-119 -119l-30 30l119 119l-119 119l30 30l119 -119l119 119z" />
-    <glyph glyph-name="ion-android-create" unicode="&#xf37e;" horiz-adv-x="384" 
+    <glyph glyph-name="ion-android-create" unicode="&#xf37e;" 
 d="M0 80l236 236l80 -80l-236 -236h-80v80zM378 298l-40 -40l-80 80l40 40c9 9 20 9 29 0l51 -51c9 -9 9 -20 0 -29z" />
     <glyph glyph-name="ion-android-delete" unicode="&#xf37f;" horiz-adv-x="320" 
 d="M32 43v245h256v-245c0 -23 -20 -43 -43 -43h-170c-23 0 -43 20 -43 43zM320 352v-32h-320v32h80l27 32h106l27 -32h80z" />
-    <glyph glyph-name="ion-android-done" unicode="&#xf383;" horiz-adv-x="384" 
+    <glyph glyph-name="ion-android-done" unicode="&#xf383;" 
 d="M122 108l230 230l32 -31l-262 -261l-122 122l32 31z" />
+    <glyph glyph-name="ion-android-menu" unicode="&#xf394;" 
+d="M0 64v43h384v-43h-384zM0 171v42h384v-42h-384zM0 320h384v-43h-384v43z" />
     <glyph glyph-name="ion-android-more-horizontal" unicode="&#xf396;" horiz-adv-x="320" 
 d="M40 232c22 0 40 -18 40 -40s-18 -40 -40 -40s-40 18 -40 40s18 40 40 40zM280 232c22 0 40 -18 40 -40s-18 -40 -40 -40s-40 18 -40 40s18 40 40 40zM160 232c22 0 40 -18 40 -40s-18 -40 -40 -40s-40 18 -40 40s18 40 40 40z" />
     <glyph glyph-name="ion-android-more-vertical" unicode="&#xf397;" horiz-adv-x="80" 
@@ -66,30 +68,30 @@ d="M80 312c0 -22 -18 -40 -40 -40s-40 18 -40 40s18 40 40 40s40 -18 40 -40zM80 72c
 d="M176 60c56 0 104 34 123 84h46c-21 -74 -88 -128 -169 -128c-98 0 -176 79 -176 176s79 176 176 176c48 0 92 -20 124 -52l52 52v-154h-154l70 70c-23 24 -56 40 -92 40c-73 0 -132 -59 -132 -132s59 -132 132 -132z" />
     <glyph glyph-name="ion-android-remove" unicode="&#xf2f4;" horiz-adv-x="320" 
 d="M0 171v42h320v-42h-320z" />
-    <glyph glyph-name="ion-android-search" unicode="&#xf2f5;" horiz-adv-x="384" 
+    <glyph glyph-name="ion-android-search" unicode="&#xf2f5;" 
 d="M274 143l110 -110l-33 -33l-109 110v17l-7 6c-25 -21 -58 -34 -93 -34c-79 0 -142 63 -142 142s63 143 141 143c79 0 142 -64 142 -143c0 -36 -13 -68 -34 -93l7 -5h18zM142 143c55 0 99 43 99 98s-44 99 -99 99s-98 -44 -98 -99s43 -98 98 -98z" />
-    <glyph glyph-name="ion-android-share-alt" unicode="&#xf3ac;" horiz-adv-x="384" 
+    <glyph glyph-name="ion-android-share-alt" unicode="&#xf3ac;" 
 d="M320 104c34 0 62 -28 62 -62s-28 -62 -62 -62s-62 28 -62 62c0 5 1 10 2 14l-152 88c-12 -11 -27 -17 -44 -17c-35 0 -64 29 -64 64s28 64 63 64c17 0 32 -6 44 -17l151 87c-1 5 -2 10 -2 15c0 35 29 64 64 64s64 -29 64 -64s-29 -64 -64 -64c-17 0 -32 6 -44 17
 l-151 -87c1 -5 2 -10 2 -15s-1 -10 -2 -15l153 -88c11 11 26 16 42 16z" />
-    <glyph glyph-name="ion-checkmark-circled" unicode="&#xf120;" 
+    <glyph glyph-name="ion-checkmark-circled" unicode="&#xf120;" horiz-adv-x="448" 
 d="M224 416c124 0 224 -100 224 -224s-100 -224 -224 -224s-224 100 -224 224s100 224 224 224zM339 267c1 1 1 2 1 3s0 3 -1 4l-31 24c-1 1 -3 1 -4 1s-2 0 -3 -1l-111 -143s-44 42 -45 43s-4 3 -6 3s-3 -2 -4 -3l-25 -25l-1 -1c-1 -1 -1 -3 -1 -4s0 -2 1 -3l2 -1
 s78 -75 79 -76s3 -3 5 -3s4 2 5 3z" />
     <glyph glyph-name="ion-checkmark-round" unicode="&#xf121;" horiz-adv-x="416" 
 d="M400 376c17 -13 22 -39 9 -57l-207 -302c-13 -18 -37 -22 -54 -9s-137 147 -137 147c-15 16 -15 42 1 58s40 15 55 -2l99 -107l180 263c13 18 37 22 54 9z" />
-    <glyph glyph-name="ion-chevron-down" unicode="&#xf123;" 
+    <glyph glyph-name="ion-chevron-down" unicode="&#xf123;" horiz-adv-x="448" 
 d="M224 150v0v0l174 167c4 4 12 4 16 0l31 -30c4 -4 4 -12 0 -16l-213 -204c-2 -2 -5 -3 -8 -3s-6 1 -8 3l-213 204c-4 4 -4 12 0 16l31 30c4 4 12 4 16 0z" />
     <glyph glyph-name="ion-chevron-left" unicode="&#xf124;" horiz-adv-x="256" 
 d="M86 192l167 -174c4 -4 4 -12 0 -16l-30 -31c-4 -4 -12 -4 -16 0l-204 213c-2 2 -3 5 -3 8s1 6 3 8l204 213c4 4 12 3 16 -1l30 -30c4 -4 4 -12 0 -16l-167 -174v0v0z" />
     <glyph glyph-name="ion-chevron-right" unicode="&#xf125;" horiz-adv-x="256" 
 d="M170 192v0v0l-167 174c-4 4 -4 12 0 16l30 30c4 4 12 5 16 1l204 -213c2 -2 3 -5 3 -8s-1 -6 -3 -8l-204 -213c-4 -4 -12 -4 -16 0l-30 31c-4 4 -4 12 0 16z" />
-    <glyph glyph-name="ion-chevron-up" unicode="&#xf126;" 
+    <glyph glyph-name="ion-chevron-up" unicode="&#xf126;" horiz-adv-x="448" 
 d="M224 234l-174 -167c-4 -4 -12 -4 -16 0l-31 30c-4 4 -4 12 0 16l213 204c2 2 5 3 8 3s6 -1 8 -3l213 -204c4 -4 4 -12 0 -16l-31 -30c-4 -4 -12 -4 -16 0l-174 167v0v0z" />
-    <glyph glyph-name="ion-close-circled" unicode="&#xf128;" 
+    <glyph glyph-name="ion-close-circled" unicode="&#xf128;" horiz-adv-x="448" 
 d="M224 415c124 0 224 -100 224 -224s-100 -224 -224 -224s-224 100 -224 224s100 224 224 224zM332 116l-75 75l76 75c3 3 3 9 0 12l-22 21c-2 2 -4 3 -6 3s-3 -1 -5 -3l-76 -74l-76 74c-2 2 -3 3 -5 3s-4 -1 -6 -3l-21 -21c-3 -3 -3 -9 0 -12l76 -75l-76 -76
 c-2 -1 -2 -3 -2 -5s0 -4 2 -6l21 -22c2 -2 4 -2 6 -2s4 0 6 2l75 76l76 -75c2 -2 3 -3 5 -3s4 1 6 3l21 21c2 1 3 4 3 6s-1 4 -3 6z" />
-    <glyph glyph-name="ion-edit" unicode="&#xf2bf;" 
+    <glyph glyph-name="ion-edit" unicode="&#xf2bf;" horiz-adv-x="448" 
 d="M381 259l-250 -251l-91 91l251 250zM440 360c12 -12 11 -32 -2 -45l-45 -45l-91 91l45 45c13 13 33 14 45 2zM32 85l85 -85l-117 -32z" />
-    <glyph glyph-name="ion-images" unicode="&#xf148;" 
+    <glyph glyph-name="ion-images" unicode="&#xf148;" horiz-adv-x="448" 
 d="M426 308c13 -1 23 -12 22 -24l-14 -263c-1 -13 -12 -22 -25 -21l-330 16c-13 1 -23 10 -22 23l2 46l-15 -1c-12 -1 -22 7 -23 18l-21 236c-1 11 7 21 19 22l296 24c12 1 22 -7 23 -18l5 -54zM71 302c1 12 11 22 24 22l219 -11l-2 31h-1v1c-1 5 -5 8 -10 8l-261 -22
 c-5 0 -10 -4 -10 -9v0v-1l16 -178l18 25zM405 66l10 198v1v0c0 6 -5 10 -11 10l-58 3l-29 2l-204 9c-6 0 -11 -4 -12 -9v0v-1l-3 -63l-7 -128v-7l6 7l102 109c4 4 8 6 14 6s11 -3 14 -7l43 -49l3 -3c2 -2 6 -4 10 -4s5 1 9 3l17 12c4 3 7 4 11 4s9 -2 11 -5l27 -33zM341 186
 c-20 0 -35 15 -35 35s16 35 35 35c20 0 35 -16 35 -35s-16 -35 -35 -35z" />
