@@ -24,6 +24,7 @@
 .#{$ionicons-prefix}android-refresh:before,
 .#{$ionicons-prefix}android-remove:before,
 .#{$ionicons-prefix}android-search:before,
+.#{$ionicons-prefix}android-settings:before,
 .#{$ionicons-prefix}android-share-alt:before,
 .#{$ionicons-prefix}checkmark-circled:before,
 .#{$ionicons-prefix}checkmark-round:before,
@@ -35,7 +36,8 @@
 .#{$ionicons-prefix}edit:before,
 .#{$ionicons-prefix}images:before,
 .#{$ionicons-prefix}ios-copy:before,
-.#{$ionicons-prefix}stats-bars:before
+.#{$ionicons-prefix}stats-bars:before,
+.#{$ionicons-prefix}trash-a:before
 {
   @extend .ion;
 }
@@ -61,6 +63,7 @@
 .#{$ionicons-prefix}android-refresh:before { content: $ionicon-var-android-refresh; }
 .#{$ionicons-prefix}android-remove:before { content: $ionicon-var-android-remove; }
 .#{$ionicons-prefix}android-search:before { content: $ionicon-var-android-search; }
+.#{$ionicons-prefix}android-settings:before { content: $ionicon-var-android-settings; }
 .#{$ionicons-prefix}android-share-alt:before { content: $ionicon-var-android-share-alt; }
 .#{$ionicons-prefix}checkmark-circled:before { content: $ionicon-var-checkmark-circled; }
 .#{$ionicons-prefix}checkmark-round:before { content: $ionicon-var-checkmark-round; }
@@ -73,3 +76,4 @@
 .#{$ionicons-prefix}images:before { content: $ionicon-var-images; }
 .#{$ionicons-prefix}ios-copy:before { content: $ionicon-var-ios-copy; }
 .#{$ionicons-prefix}stats-bars:before { content: $ionicon-var-stats-bars; }
+.#{$ionicons-prefix}trash-a:before { content: $ionicon-var-trash-a; }

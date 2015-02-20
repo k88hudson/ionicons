@@ -21,9 +21,9 @@ We intend for this icon pack to be used with [Ionic](http://ionicframework.com/)
 Or install with [component](https://github.com/component/component):
 
     $ component install driftyco/ionicons
-    
+
 Or perhaps you're known to use [bower](http://bower.io/)?
-   
+
     $ bower install ionicons
 
 
@@ -46,7 +46,7 @@ This repo already comes with all the files built and ready to go, but can also b
 
     $ gem install sass
 
-3) Add or subtract files from the `src/` folder you'd like to be apart of the font files.
+3) Add or subtract files from the `src_subset/` folder you'd like to be apart of the font files.
 
 4) Modify any settings in the `builder/manifest.json` file. You can change the name of the font-family and CSS classname prefix.
 
