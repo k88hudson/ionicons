@@ -1,5 +1,5 @@
 {
-  "build_hash": "b2ec563c657eda16c78580485d00962a",
+  "build_hash": "c43de7197e683069660837416c4b5baa",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -139,6 +139,10 @@
     {
       "code": "0xf41c",
       "name": "ios-copy"
+    },
+    {
+      "code": "0xf41f",
+      "name": "ios-download-outline"
     },
     {
       "code": "0xf2b5",

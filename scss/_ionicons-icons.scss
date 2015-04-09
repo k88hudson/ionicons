@@ -36,6 +36,7 @@
 .#{$ionicons-prefix}edit:before,
 .#{$ionicons-prefix}images:before,
 .#{$ionicons-prefix}ios-copy:before,
+.#{$ionicons-prefix}ios-download-outline:before,
 .#{$ionicons-prefix}stats-bars:before,
 .#{$ionicons-prefix}trash-a:before
 {
@@ -75,5 +76,6 @@
 .#{$ionicons-prefix}edit:before { content: $ionicon-var-edit; }
 .#{$ionicons-prefix}images:before { content: $ionicon-var-images; }
 .#{$ionicons-prefix}ios-copy:before { content: $ionicon-var-ios-copy; }
+.#{$ionicons-prefix}ios-download-outline:before { content: $ionicon-var-ios-download-outline; }
 .#{$ionicons-prefix}stats-bars:before { content: $ionicon-var-stats-bars; }
 .#{$ionicons-prefix}trash-a:before { content: $ionicon-var-trash-a; }
